@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\RES_lab_1\RES_lab_1\bin\Debug\RES_lab_1.exe.config
+c:\users\student\documents\visual studio 2015\Projects\RES_lab_1\RES_lab_1\obj\Debug\RES_lab_1.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\RES_lab_1\RES_lab_1\bin\Debug\RES_lab_1.exe
+c:\users\student\documents\visual studio 2015\Projects\RES_lab_1\RES_lab_1\bin\Debug\RES_lab_1.pdb
+c:\users\student\documents\visual studio 2015\Projects\RES_lab_1\RES_lab_1\obj\Debug\RES_lab_1.exe
+c:\users\student\documents\visual studio 2015\Projects\RES_lab_1\RES_lab_1\obj\Debug\RES_lab_1.pdb
