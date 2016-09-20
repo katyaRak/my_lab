@@ -34,5 +34,7 @@ namespace RES_lab_1
             return firstNumber / secondNumber;
 
         }
+
+       
     }
 }
